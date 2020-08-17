@@ -1,7 +1,7 @@
 ---
 title: "Contextualization and authenticity in TBLT: Voices from Chinese classrooms"
 collection: publications
-permalink: /publication/2020-08-17-paper-title-number-1
+<!--permalink: /publication/2020-08-17-paper-title-number-1--->
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2017
 venue: 'Language Teaching Research'
