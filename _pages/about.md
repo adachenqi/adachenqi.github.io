@@ -1,4 +1,13 @@
-Profile
+---
+permalink: /
+title: "Profile"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 ======
 My current research interests in the areas of Applied Linguistics and TESOL include: 
 1) understanding teachers’ beliefs, teacher autonomy and classroom teaching practices in EFL contexts; 
