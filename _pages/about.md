@@ -27,6 +27,8 @@ I joined Moray House School of Education and Sports at the University of Edinbur
 
 Professional Services and Activities
 ======
+Peer-reviewer for [The TESOL International Journal](https://www.tesol-international-journal.com/)
+
 Peer-reviewer for [Classroom Discourse](https://www.tandfonline.com/toc/rcdi20/current)
 
 Peer-reviewer for [TESOL Quarterly Special Issue: Complementary Perspectives on Task-based Classroom Realities](https://onlinelibrary.wiley.com/toc/15457249/51/3)
