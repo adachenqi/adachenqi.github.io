@@ -10,7 +10,12 @@ redirect_from:
 
 Profile
 ======
-My current research interests in the areas of Applied Linguistics and TESOL include: 1) understanding teachers’ beliefs, teacher autonomy and classroom teaching practices in EFL contexts; 2) understanding multilingual language use and language ideologies in internationalised universities; 3) understanding the use of multilingual and multimodal resources in talk-and-bodies-in-interaction in multilingual and multicultural social contexts.
+My current research interests in the areas of Applied Linguistics and TESOL include: 
+1) understanding teachers’ beliefs, teacher autonomy and classroom teaching practices in EFL contexts; 
+
+2) understanding multilingual language use and language ideologies in internationalised universities; 
+
+3) understanding the use of multilingual and multimodal resources in talk-and-bodies-in-interaction in multilingual and multicultural social contexts.
 
 After graduating from Zhejiang Gongshang University (China) and Coventry University (UK) as an exchange student studying BA English and BA English for Business in 2011, I moved to Newcastle upon Tyne and studied Applied Linguistics and TESOL as an MA student at Newcastle University. Back then, I grew an interest in investigating language teachers’ beliefs and classroom practices in EFL contexts such as China, especially relating to the contextualisation and localisation of communication-oriented language teaching pedagogies (e.g., task-based language teaching, communicative language teaching).
 
