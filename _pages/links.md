@@ -8,7 +8,7 @@ redirect_from:
 ---
 Websites
 ------
-[The Linguist List](https://linguistlist.org/)
+[The LINGUIST List](https://linguistlist.org/)
 
 [EMCA WIKI](http://emcawiki.net/Main_Page)
 
