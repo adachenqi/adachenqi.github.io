@@ -22,14 +22,14 @@ Organisations
 ------
 [British Association for Applied Linguistics (BAAL)](https://www.baal.org.uk/)
 
-[International Pragmatics Association(IPrA)](https://pragmatics.international/)
+[International Pragmatics Association (IPrA)](https://pragmatics.international/)
 
 [Language Policy SIG, BAAL](https://sites.google.com/view/langpol/)
 
-[American Association for Applied Linguistics](https://www.aaal.org/)
+[American Association for Applied Linguistics (AAAL)](https://www.aaal.org/)
 
-[The International Society for Conversation Analysis](https://www.conversationanalysis.org/)
+[The International Society for Conversation Analysis (ISCA)](https://www.conversationanalysis.org/)
 
-[International Association of Applied Linguistics](https://aila.info/)
+[International Association of Applied Linguistics (AILA)](https://aila.info/)
 
-[China English Language Education Association](http://www.celea.org.cn/default.asp)
+[China English Language Education Association (CELEA)](http://www.celea.org.cn/default.asp)
