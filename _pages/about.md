@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+Associate Tutor in TESOL and Language Education, Moray House School of Education and Sports, University of Edinburgh
+
+Visiting Lecturer in Applied Linguistics and TESOL, School of Education, Communication and Language Sciences, Newcastle University
 
 Research Interests
 ------
