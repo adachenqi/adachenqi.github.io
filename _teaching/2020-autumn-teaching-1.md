@@ -2,8 +2,8 @@
 title: "Teaching Assistant in Applied Linguistics and TESOL"
 collection: teaching
 type: "postgraduate teaching"
-permalink: /teaching/2020-autumn-teaching-1
-venue: "School of Education, Communication and Language Sciences, Newcastle University"
+permalink: /teaching/2020-autumn-teaching-3
+venue: "Newcastle University, School of Education, Communication and Language Sciences"
 date: 2012-09-20
 location: "Newcastle upon Tyne, UK"
 ---
