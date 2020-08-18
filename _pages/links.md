@@ -12,6 +12,16 @@ Websites
 
 [EMCA WIKI](http://emcawiki.net/Main_Page)
 
+[Using CLAN](http://dali.talkbank.org/clan/)
+
+[ELAN - The Language Archive](https://archive.mpi.nl/tla/elan)
+
+[Ethno/CA resources by Paul ten Have](http://www.paultenhave.nl/resource.htm)
+
+[Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/)
+
+[The Encyclopedia of Applied Linguistics](https://onlinelibrary.wiley.com/doi/book/10.1002/9781405198431)
+
 
 Journals
 ------
