@@ -5,7 +5,7 @@ type: "postgraduate teaching"
 permalink: /teaching/2020-autumn-teaching-2
 venue: "University of Edinburgh, Moray House School of Education and Sports"
 date: 2019-03-01
-location: "City, Country"
+location: "Edinburgh, UK"
 ---
 
 I joined Moray House School of Education and Sports since 03.2019, contributing to the two postgraduate taught programmes of MSc TESOL and MSc Language Education, and have taught:
